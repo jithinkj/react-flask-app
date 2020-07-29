@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirements,you need to install three packages on your machine:
+
+Node.js: The JavaScript runtime that you will use to run your frontend project.
+
+Yarn: A package and project manager for Node.js applications.
+
+Python: A recent Python 3 interpreter to run the Flask backend on.
+
+
 Create python virtual environment
 ### cd api
 ### python3 -m venv venv
