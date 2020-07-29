@@ -1,8 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Create python virtual environment 
+Create python virtual environment
+### cd api
 ### python3 -m venv venv
 ### . venv/bin/activate
+### pip3 install flask python-dotenv flask-sqlalchemy
+### cd ..
+### `yarn start`
+### `yarn start-api`
 
 ## Available Scripts
 
